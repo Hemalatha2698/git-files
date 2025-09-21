@@ -12,3 +12,4 @@ output "public_instance_ip" {
 }
 
 welcome to git
+welcome to uday 
